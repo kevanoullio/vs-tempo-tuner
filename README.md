@@ -1,2 +1,2 @@
 # vs-tempo-tuner
-BPM Converter/Calculator to convert BPM into ms measurements, with tap tempo functionality.
+BPM Converter/Calculator VST plugin to convert BPM into ms measurements, with tap tempo functionality.
